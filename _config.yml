@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Edoardo Scali"
   pronouns         : # example: "she/her"  
-  bio              : "I am a PhD Student at UC Berkeley studying Forest Pathology"
+  bio              : "PhD Student at UC Berkeley"
   location         : "Berkeley, CA (USA)"
   employer         : "University of California, Berkeley"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : # "Edoardo Scali"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
