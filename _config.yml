@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Edoardo Scali / My Personal Website"
 title_separator          : "-"
 name                     : &name "Edoardo Scali"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a PhD Student at UC Berkeley studying Forest Pathology"
   location         : "Earth"
   employer         : "University of California, Berkeley"
   uri              : # URL
