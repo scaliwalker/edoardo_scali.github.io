@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [ESPM Department] (https://ourenvironment.berkeley.edu/) of the University of California, Berkeley. I am a Graduate Student in Professor [Garbelotto's lab] (https://nature.berkeley.edu/matteolab/?page_id=12). 
+I am a PhD student at the [ESPM Department](https://ourenvironment.berkeley.edu/) of the University of California, Berkeley. I am a Graduate Student in Professor [Garbelotto's lab](https://nature.berkeley.edu/matteolab/?page_id=12). 
 
 My Research Interests
 ======
