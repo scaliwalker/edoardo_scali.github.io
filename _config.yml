@@ -12,7 +12,7 @@ title                    : "Edoardo Scali"
 title_separator          : "-"
 name                     : &name "Edoardo Scali"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://edoardo_scali.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "edo_square.png"
+  avatar           : "/images/edo_square.png"
   name             : "Edoardo Scali"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at UC Berkeley ESPM Department"
