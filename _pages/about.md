@@ -11,15 +11,15 @@ I am a PhD student at the [ESPM Department](https://ourenvironment.berkeley.edu/
 
 My Research Interests
 ======
-🌲 **Forest Pathology**: Forests are vital ecosystems increasingly at risk from various factors. Climate change and the rampant international trade that facilitates the movement of alien organisms exert significant pressure on forest health. Consequently, forests are becoming more susceptible to attacks from pathogenic microorganisms.
+**Forest Pathology**: Forests are vital ecosystems increasingly at risk from various factors. Climate change and the rampant international trade that facilitates the movement of alien organisms exert significant pressure on forest health. Consequently, forests are becoming more susceptible to attacks from pathogenic microorganisms.
 
-🦠 **Host-Pathogen Interaction**: I study what happen durning different steps of the infection proces by applying dual-RNA seq. When plant and pathogen interact with each other, there are many condition that can influence the outcome of an infection. My mission is to understand these processes studying cyopress cancker disease pathosystem. 
+**Host-Pathogen Interaction**: I study what happen durning different steps of the infection proces by applying dual-RNA seq. When plant and pathogen interact with each other, there are many condition that can influence the outcome of an infection. My mission is to understand these processes studying cyopress cancker disease pathosystem. 
 
-🍄 **Fungal Genomics**: Understanding how fungi evolve and cause disease is a key aspect of the genomic analyses I conduct. Fungi are ideal model organisms for these types of studies. Their genomes have been increasingly studied in recent years, revealing many secrets that make them highly intriguing organisms.
+**Fungal Genomics**: Understanding how fungi evolve and cause disease is a key aspect of the genomic analyses I conduct. Fungi are ideal model organisms for these types of studies. Their genomes have been increasingly studied in recent years, revealing many secrets that make them highly intriguing organisms.
 
-🧬 **Evolution and Coevolution**: Understanding the evolutionary mechanisms that lead certain organisms to become pathogens is undoubtedly one of the most interesting questions in biology. This topic expands when we consider the reciprocal influence that pathogens and hosts exert on the populations that interact with each other.
+**Evolution and Coevolution**: Understanding the evolutionary mechanisms that lead certain organisms to become pathogens is undoubtedly one of the most interesting questions in biology. This topic expands when we consider the reciprocal influence that pathogens and hosts exert on the populations that interact with each other.
 
-🖥️ **Computational Biology**: I am a data analyses enthusiast. Since I took the first course of Statistics back when I was a Master Student, I never stopped coding! I grew my skills over time and keep learning new computational methods is one of the aspect that I am more passionate about. I mainly work with [Savio](https://research-it.berkeley.edu/services-projects/high-performance-computing-savio).
+**Computational Biology**: I am a data analyses enthusiast. Since I took the first course of Statistics back when I was a Master Student, I never stopped coding! I grew my skills over time and keep learning new computational methods is one of the aspect that I am more passionate about. I mainly work with [Savio](https://research-it.berkeley.edu/services-projects/high-performance-computing-savio).
 
 My Previous Experiences
 ======
