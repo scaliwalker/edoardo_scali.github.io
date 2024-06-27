@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [ESPM Department](https://ourenvironment.berkeley.edu/) of the University of California, Berkeley. I am a Graduate Student at Professor [Garbelotto's lab](https://nature.berkeley.edu/matteolab/?page_id=12). I started my experience as a PhD in 2022 with a Fulbright Scholarship. 
+I am a PhD student at the [ESPM Department](https://ourenvironment.berkeley.edu/) of the University of California, Berkeley. I am a Graduate Student at [Garbelotto's Lab](https://nature.berkeley.edu/matteolab/?page_id=12). I started my experience as a PhD in 2022 with a Fulbright Scholarship. 
 
 My Research Interests
 ======
@@ -21,7 +21,7 @@ My Research Interests
 
 **Computational Biology**: I am a data analyses enthusiast. Since I took the first course of Statistics back when I was a Master Student, I never stopped coding! I grew my skills over time and keep learning new computational methods is one of the aspect that I am more passionate about. I mainly work with [Savio](https://research-it.berkeley.edu/services-projects/high-performance-computing-savio).
 
-My Previous Experiences
+My Previous Experience
 ======
 Before embarking on this PhD, I worked for about a year as a research fellow in a joint supervision between the University of Florence and the Italian National Research Council in Sesto Fiorentino. However, one of the most formative professional experiences I've had was working in migrant reception centers in Italy for two and a half years. This experience greatly enriched me on a personal level and allowed me to view my current scientific work from a different perspective. I am particularly sensitive to the impact of forest loss on the populations living in surrounding areas. Additionally, I am deeply interested in the application of plant pathology to food security.
 
