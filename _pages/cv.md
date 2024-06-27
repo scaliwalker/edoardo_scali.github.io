@@ -7,30 +7,29 @@ redirect_from:
   - /resume
 ---
 
+Here is a short version of my _Curriculum vitae_
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Forest Pathology, University of California, Berkeley, 2022-Current
+* M.S. in Forest System Sciences and Technologies, University of Florence (Italy), 2021
+* M.S. in Reception of Migrants: Legislation, Social Integration Policies and Health Issue, University of Florence (Italy), 2019 
+* B.S. in Forestry and Environmental Science, University of Florence (Italy), 2-16
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021-2022: Research assistant
+  * University of Florence (Italy)
+ 
+* Fall 2020: Intern 
+  * Swedish University of Agricultural Sciences, Uppsala (Sweden) -  Department of Forest Mycology and Plant Pathology.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-2019: Operator in a reception a center for asylum seeker
+  * Coop 22, Piazza San Rocco 1, 59100, Prato (PO), Italy.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2016: Intern
+  * Institute for Sustainable Plant Protection, National Research Council (CNR), Sesto Fiorentino (Italy)
   
 Skills
 ======
