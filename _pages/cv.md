@@ -12,7 +12,7 @@ Here is a short version of my _Curriculum vitae_
 
 Education
 ======
-* Ph.D in Forest Pathology, University of California, Berkeley, 2022-Current
+* Ph.D in Forest Pathology, University of California, Berkeley, Current
 * M.S. in Forest System Sciences and Technologies, University of Florence (Italy), 2021
 * M.S. in Reception of Migrants: Legislation, Social Integration Policies and Health Issue, University of Florence (Italy), 2019 
 * B.S. in Forestry and Environmental Science, University of Florence (Italy), 2-16
