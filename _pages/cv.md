@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Here is a short version of my _Curriculum vitae_
+Here is a short version of my _Curriculum vitae_. Please contact me for a more detailed version.
 {% include base_path %}
 
 Education
@@ -19,6 +19,8 @@ Education
 
 Work experience
 ======
+* Fall 2022 - present: Graduate Student Researcher, Forest Pathology and Mycology Lab, University of California, Berkeley (USA)
+
 * 2021-2022: Research assistant
   * University of Florence (Italy)
  
@@ -31,14 +33,18 @@ Work experience
 * Spring 2016: Intern
   * Institute for Sustainable Plant Protection, National Research Council (CNR), Sesto Fiorentino (Italy)
   
-Skills
+Other
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 
+* UC Berkeley ESPM -Summer 2023 Research Fundig Grant 
+* Aug 2022, Fulbright Scholarship
+* Oct 2021, Appointed Subject Expert (“Cultore della Materia”) for the Scientific Disciplinary Subject AGR 12 (Plant
+Pathology) by DAGRI Department of the University of Florence
+* Oct 2021, Appointed Subject Expert (“Cultore della Materia”) for the Scientific Disciplinary Subject ICAR/15 (Restoration
+of Historic Parks and Gardens) by DIDA Department of the University of Florence
+* Feb 2021, Recognition of “dignità di stampa” (press dignity) for MSc Thesis, Included in PubbliTesi (archive for the
+excellent Italian thesis)
+  
 
 Publications
 ======
