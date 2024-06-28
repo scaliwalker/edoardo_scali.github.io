@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-Here is a short version of my _Curriculum vitae_. Please contact me for a more detailed version.
-{% include base_path %}
+<p style="font-size:14px;width:600px;text-align:justify">Here is a short overview of my CV. Please contact me for a more detailed version.</p>
+
 
 Education
 ======
