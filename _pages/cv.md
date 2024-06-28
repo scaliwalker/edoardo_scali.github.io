@@ -21,8 +21,8 @@ redirect_from:
 </div>
 
 </br>
-<div>
-<b>Work experience</b>
+<div style="margin-top:20px;">
+<b style="margin-bottom:-20px;">Work experience</b>
 <ul>
 <li style="margin-bottom:-20px;margin-top:-10px;"><p style="font-size:14px;text-align:justify">Fall 2022 - present: Graduate Student Researcher, Forest Pathology and Mycology Lab, University of California, Berkeley (USA)</p></li>
 <li style="margin-bottom:-20px;"><p style="font-size:14px;text-align:justify">2021 - 2022:Research assistant University of Florence (Italy)</p></li>
@@ -32,9 +32,10 @@ redirect_from:
 </ul>
 </div>
 
+
 </br>
-<div>
-<b>Awards, Honors, and Grants</b>
+<div style="margin-top:20px;">
+<b style="margin-bottom:-20px;">Awards, Honors, and Grants</b>  
 <ul>
 <li style="margin-bottom:-20px;margin-top:-10px;"><p style="font-size:14px;text-align:justify">Jan 2024: member of the <a href="https://link.springer.com/journal/42161/updates/26325980" target="_blank">Young Editorial Board</a> of the <a href="https://link.springer.com/journal/42161" target="_blank">Journal of Plant Pathology</a></p></li>
 <li style="margin-bottom:-20px;"><p style="font-size:14px;text-align:justify">Summer 2023: UC Berkeley ESPM Research Funding Grant</p></li>
