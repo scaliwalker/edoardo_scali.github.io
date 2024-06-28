@@ -35,9 +35,8 @@ redirect_from:
 <b>Awards, Honors, and Grants</b>
 <ul>
 <li style="margin-bottom:-20px;margin-top:-10px;"><p style="font-size:14px;text-align:justify">Jan 2024: member of the <a href="https://link.springer.com/journal/42161/updates/26325980" target="_blank">Young Editorial Board</a> of the <a href="https://link.springer.com/journal/42161" target="_blank">Journal of Plant Pathology</a></p></li>
-<li style="margin-bottom:-20px;"><p style="font-size:14px;text-align:justify">UC Berkeley ESPM - Summer 2023 Research Funding Grant</p></li>
-<li style="margin-bottom:-20px;"><p style="font-size:14px;text-align:justify">Best Poster at California Forest Pest Council, 2022</p></li>
-<li style="margin-bottom:-20px;"><p style="font-size:14px;text-align:justify">Fulbright Fellow for Self Placed PhD, August 2022</p></li>
+<li style="margin-bottom:-20px;"><p style="font-size:14px;text-align:justify">Summer 2023: UC Berkeley ESPM Research Funding Grant</p></li>
+<li style="margin-bottom:-20px;"><p style="font-size:14px;text-align:justify">August 2022: Fulbright Fellow for Self Placed PhD</p></li>
 <li style="margin-bottom:-20px;">
   <p style="font-size:14px;text-align:justify">
     Feb 2021: Recognition of press dignity for MSc Thesis, included in 
@@ -47,7 +46,7 @@ redirect_from:
 </li>
 
 
-<li style="margin-bottom:-20px;"><p style="font-size:14px;text-align:justify">Erasmus Program Intern at Swedish University of Agricultural Sciences (SLU) in Uppsala (Sweden), September 2020</p></li>
+<li style="margin-bottom:-20px;"><p style="font-size:14px;text-align:justify">Sep 2020: Erasmus Program Intern at Swedish University of Agricultural Sciences (SLU) in Uppsala (Sweden)</p></li>
 </ul>
 </div>
   
