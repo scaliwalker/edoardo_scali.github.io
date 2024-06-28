@@ -38,10 +38,8 @@ redirect_from:
 <li style="margin-bottom:-20px;"><p style="font-size:14px;text-align:justify">UC Berkeley ESPM - Summer 2023 Research Funding Grant</p></li>
 <li style="margin-bottom:-20px;"><p style="font-size:14px;text-align:justify">Best Poster at California Forest Pest Council, 2022</p></li>
 <li style="margin-bottom:-20px;"><p style="font-size:14px;text-align:justify">Fulbright Fellow for Self Placed PhD, August 2022</p></li>
-<li style="margin-bottom:-20px;"><p style="font-size:14px;text-align:justify">Appointed Subject Expert (“Cultore della Materia”) for the Scientific Disciplinary Subject AGR 12 (Plant Pathology) by DAGRI Department of the University of Florence, October 2021</p></li>
-<li style="margin-bottom:-20px;"><p style="font-size:14px;text-align:justify">Appointed Subject Expert (“Cultore della Materia”) for the Scientific Disciplinary Subject ICAR/15 (Restoration of Historic Parks and Gardens) by DIDA Department of the University of Florence, October 2021</p></li>
-<li style="margin-bottom:-20px;"><p style="font-size:14px;text-align:justify">Research Fellowship Winner for Airborne Hymenoscyphus fraxineus spores monitoring, July 2021 – December 2021</p></li>
-<li style="margin-bottom:-20px;"><p style="font-size:14px;text-align:justify">Recognition of “dignità di stampa” (press dignity) for MSc Thesis, included in PubbliTesi (archive for the excellent Italian thesis), February 2021</p></li>
+<li style="margin-bottom:-20px;"><p style="font-size:14px;text-align:justify">Feb 2021: Recognition of press dignity for MSc Thesis, included in <a href="http://lnx.pubblitesi.it/schede-sintetiche/area-scientifica/1496-edoardo-scali-analyses-on-data-from-airborne-pollen-and-spore-traps-classical-investigation-methods-and-molecular-metabarcoding-with-next-generation-sequencing"target="_blank">PubbliTesi</a> (archive of the excellent Italian thesis) </p></li>
+
 <li style="margin-bottom:-20px;"><p style="font-size:14px;text-align:justify">Erasmus Program Intern at Swedish University of Agricultural Sciences (SLU) in Uppsala (Sweden), September 2020</p></li>
 </ul>
 </div>
