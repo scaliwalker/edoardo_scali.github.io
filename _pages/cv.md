@@ -20,52 +20,30 @@ redirect_from:
 </ul>
 </div>
 
-Work experience
-======
-* Fall 2022 - present: Graduate Student Researcher, Forest Pathology and Mycology Lab, University of California, Berkeley (USA)
+<div>
+<b>Work experience</b>
+<ul>
+<li style="margin-bottom:-20px;margin-top:-10px;"><p style="font-size:14px;text-align:justify">Fall 2022 - present: Graduate Student Researcher, Forest Pathology and Mycology Lab, University of California, Berkeley (USA)</p></li>
+<li style="margin-bottom:-20px;margin-top:-10px;"><p style="font-size:14px;text-align:justify">2021 - 2022:Research assistant University of Florence (Italy)</p></li>
+<li style="margin-bottom:-20px;margin-top:-10px;"><p style="font-size:14px;text-align:justify">Fall 2020: Intern Swedish University of Agricultural Sciences, Uppsala (Sweden) -  Department of Forest Mycology and Plant Pathology</p></li>
+<li style="margin-bottom:-20px;margin-top:-10px;"><p style="font-size:14px;text-align:justify">2016 - 2019: Operator in a reception a center for asylum seeker, Coop 22, Prato, Italy.</p></li>
+<li style="margin-bottom:-20px;margin-top:-10px;"><p style="font-size:14px;text-align:justify">Spring 2016: Intern Institute for Sustainable Plant Protection, National Research Council (CNR), Sesto Fiorentino (Italy)</p></li>
+</ul>
+</div>
 
-* 2021-2022: Research assistant
-  * University of Florence (Italy)
- 
-* Fall 2020: Intern 
-  * Swedish University of Agricultural Sciences, Uppsala (Sweden) -  Department of Forest Mycology and Plant Pathology.
-
-* 2016-2019: Operator in a reception a center for asylum seeker
-  * Coop 22, Piazza San Rocco 1, 59100, Prato (PO), Italy.
-
-* Spring 2016: Intern
-  * Institute for Sustainable Plant Protection, National Research Council (CNR), Sesto Fiorentino (Italy)
-  
-Other
-======
-* UC Berkeley ESPM -Summer 2023 Research Fundig Grant 
-* Aug 2022, Fulbright Scholarship
-* Oct 2021, Appointed Subject Expert (“Cultore della Materia”) for the Scientific Disciplinary Subject AGR 12 (Plant
-Pathology) by DAGRI Department of the University of Florence
-* Oct 2021, Appointed Subject Expert (“Cultore della Materia”) for the Scientific Disciplinary Subject ICAR/15 (Restoration
-of Historic Parks and Gardens) by DIDA Department of the University of Florence
-* Feb 2021, Recognition of “dignità di stampa” (press dignity) for MSc Thesis, Included in PubbliTesi (archive for the
-excellent Italian thesis)
+<div>
+<b>Awards, Honors, and Grants</b>
+<ul>
+<li style="margin-bottom:-20px;margin-top:-10px;"><p style="font-size:14px;text-align:justify">Jan 2024: member of the [Young Editorial Board](https://link.springer.com/journal/42161/updates/26325980) of the [Jounal of Plant Pathology](https://link.springer.com/journal/42161)</p></li>
+<li style="margin-bottom:-20px;margin-top:-10px;"><p style="font-size:14px;text-align:justify">UC Berkeley ESPM - Summer 2023 Research Funding Grant</p></li>
+<li style="margin-bottom:-20px;margin-top:-10px;"><p style="font-size:14px;text-align:justify">Best Poster at California Forest Pest Council, 2022</p></li>
+<li style="margin-bottom:-20px;margin-top:-10px;"><p style="font-size:14px;text-align:justify">Fulbright Fellow for Self Placed PhD, August 2022</p></li>
+<li style="margin-bottom:-20px;margin-top:-10px;"><p style="font-size:14px;text-align:justify">Appointed Subject Expert (“Cultore della Materia”) for the Scientific Disciplinary Subject AGR 12 (Plant Pathology) by DAGRI Department of the University of Florence, October 2021</p></li>
+<li style="margin-bottom:-20px;margin-top:-10px;"><p style="font-size:14px;text-align:justify">Appointed Subject Expert (“Cultore della Materia”) for the Scientific Disciplinary Subject ICAR/15 (Restoration of Historic Parks and Gardens) by DIDA Department of the University of Florence, October 2021</p></li>
+<li style="margin-bottom:-20px;margin-top:-10px;"><p style="font-size:14px;text-align:justify">Research Fellowship Winner for Airborne Hymenoscyphus fraxineus spores monitoring, July 2021 – December 2021</p></li>
+<li style="margin-bottom:-20px;margin-top:-10px;"><p style="font-size:14px;text-align:justify">Recognition of “dignità di stampa” (press dignity) for MSc Thesis, included in PubbliTesi (archive for the excellent Italian thesis), February 2021</p></li>
+<li style="margin-bottom:-20px;margin-top:-10px;"><p style="font-size:14px;text-align:justify">Erasmus Program Intern at Swedish University of Agricultural Sciences (SLU) in Uppsala (Sweden), September 2020</p></li>
+</ul>
+</div>
   
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
