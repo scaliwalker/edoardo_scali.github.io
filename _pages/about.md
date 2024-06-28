@@ -21,9 +21,12 @@ My Research Interests
 
 **Computational Biology**: I am a data analyses enthusiast. Since I took my first course on Statistics, I never stopped coding! I have grown my skills over time and keep learning new computational methods as a passion. I mainly work with [Savio](https://research-it.berkeley.edu/services-projects/high-performance-computing-savio) which is the UC Berkeley compuational cluster.
 
-My Previous Experience
+Latest News
 ======
-Before embarking on this PhD, I worked for about a year as a research fellow in a joint supervision between the University of Florence and the Italian National Research Council in Sesto Fiorentino. However, one of the most formative professional experiences I've had was working in migrant reception centers in Italy for two and a half years. This experience greatly enriched me on a personal level and allowed me to view my current scientific work from a different perspective. I am particularly sensitive to the impact of forest loss on the populations living in surrounding areas. Additionally, I am deeply interested in the application of plant pathology to food security.
+
+<span style="color:grey">June 2024</span><br/>
+<span style="font-size: 14px">The paper [Genome assembly of two California isolates of Seiridium cardinale (BM-138-000494 and BM-138-000479)](https://link.springer.com/article/10.1007/s42161-024-01665-5) is now out!    
+
 
 
 
