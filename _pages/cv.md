@@ -20,6 +20,7 @@ redirect_from:
 </ul>
 </div>
 
+</br>
 <div>
 <b>Work experience</b>
 <ul>
@@ -31,6 +32,7 @@ redirect_from:
 </ul>
 </div>
 
+</br>
 <div>
 <b>Awards, Honors, and Grants</b>
 <ul>
@@ -44,8 +46,6 @@ redirect_from:
     (archive of the excellent Italian thesis)
   </p>
 </li>
-
-
 <li style="margin-bottom:-20px;"><p style="font-size:14px;text-align:justify">Sep 2020: Erasmus Program Intern at Swedish University of Agricultural Sciences (SLU) in Uppsala (Sweden)</p></li>
 </ul>
 </div>
