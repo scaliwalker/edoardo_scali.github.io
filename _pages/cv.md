@@ -10,11 +10,13 @@ redirect_from:
 <p style="font-size:14px;width:600px;text-align:justify">Here is a short overview of my CV. Please contact me for a more detailed version.</p>
 
 ## Education
+<span style="font-size:0.5em;">
 
 - **Ph.D in Forest Pathology**, University of California, Berkeley, Current
 - **M.S. in Forest System Sciences and Technologies**, University of Florence, Italy, 2021
 - **M.S. in Reception of Migrants: Legislation, Social Integration Policies and Health Issue**, University of Florence, Italy, 2019
 - **B.S. in Forestry and Environmental Science**, University of Florence (Italy)
+</span>
 
 ## Work Experience
 
