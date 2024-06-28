@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [Environemntal Sciencie Policy & Management Department](https://ourenvironment.berkeley.edu/) of the University of California, Berkeley and I am a Graduate Student at [Garbelotto's Lab](https://nature.berkeley.edu/matteolab/?page_id=12). I started my experience as a PhD in the Fall of 2022 as a Fulbright Scholar. 
+I am a PhD student at the [Environemntal Sciencie Policy & Management Department](https://ourenvironment.berkeley.edu/) of the University of California, Berkeley and I am a Graduate Student at [Garbelotto's Lab](https://nature.berkeley.edu/matteolab/?page_id=12). I started my experience as a PhD in the Fall of 2022 as a Fulbright Scholar. I did my previous undergraduate and graduate studies ath the Univeristy of Florence, in Italy. I recieved an MS in Receptions of Refugees at the University of Florence in 2019. After this experience, I recieved an MS in Forest System Science and Technologies in 2021. My [research](https://kinoppyi.github.io/edoardo_scali.github.io/research/) interests lie in the field of forest pathology and application of bioinformatics techinques with a focus on host-pathogen interactions in forest pathosystems.  
 
 
 Latest News
