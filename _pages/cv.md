@@ -35,7 +35,6 @@ Work experience
   
 Other
 ======
-* 
 * UC Berkeley ESPM -Summer 2023 Research Fundig Grant 
 * Aug 2022, Fulbright Scholarship
 * Oct 2021, Appointed Subject Expert (“Cultore della Materia”) for the Scientific Disciplinary Subject AGR 12 (Plant
