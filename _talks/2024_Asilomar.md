@@ -19,4 +19,4 @@ Despite the successful selection of resistance in _Cupressus semperviens_ genoty
 <img src="/images/asilomar.jpg">
 
 
-<img src="../../images/asilomar.jpg" alt="Asilomar_poster" width="400">
+<img src="../images/asilomar.jpg" alt="Asilomar_poster">
