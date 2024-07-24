@@ -4,7 +4,7 @@ collection: poster
 type: "Conference proceedings talk"
 permalink: /talks/2014-03-01-talk-3
 venue: "California Forest Pest Council 2022"
-date: 2024-11-16
+date: 2022-11-16
 location: "Davis, CA"
 ---
 
