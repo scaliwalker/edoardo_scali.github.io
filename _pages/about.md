@@ -13,6 +13,9 @@ I am a PhD student at the [Environemntal Sciencie Policy & Management Department
 Latest News
 ======
 
+<span style="color:grey">July 2024</span><br/>
+<span style="font-size: 14px">**Fulbright Commission Awards Grant from Vinciguerra Fund**. I am pleased to announce that I have been awarded a grant by the Fulbright Commission, funded by the Vinciguerra Fund.
+
 <span style="color:grey">June 2024</span><br/>
 <span style="font-size: 14px">The paper [Genome assembly of two California isolates of Seiridium cardinale (BM-138-000494 and BM-138-000479)](https://link.springer.com/article/10.1007/s42161-024-01665-5) is now out!    
 
