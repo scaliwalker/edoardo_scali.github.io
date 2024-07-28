@@ -32,4 +32,6 @@ Understanding these aspects involves different studies:
 
 ## Research Sites Map
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1TynoeUeLUmi5j1srqO_q9RzBsv49HBE&ehbc=2E312F" width="640" height="480"></iframe>
+<div style="text-align: center;">
+  <iframe src="https://www.google.com/maps/d/embed?mid=1TynoeUeLUmi5j1srqO_q9RzBsv49HBE&ehbc=2E312F" width="640" height="480"></iframe>
+</div>
