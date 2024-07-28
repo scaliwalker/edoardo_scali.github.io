@@ -20,17 +20,26 @@ As a PhD Student, I am examining the interactions between hosts and pathogens, s
 
 **Computational Biology**: I am a data analysis enthusiast. Since I took my first course on Statistics, I have never stopped coding! I have grown my skills over time and keep learning new computational methods as a passion. I mainly work with [Savio](https://research-it.berkeley.edu/services-projects/high-performance-computing-savio), which is the UC Berkeley computational cluster.
 
-# My PhD Project 
+# My PhD Project
+_My doctoral research focuses on understanding the coevolutionary relationship between Seiridium cardinale and Cupressus sempervirens, the genes involved in cypress resistance to Cypress Canker Disease (CCD), and the effect of climate on gene expression during infection._
 
-Cypress Canker Disease (CCD) is a pandemic caused by the Ascomycetes fungi _Seiridum cardinale_, _S. unicorne_, and _S. cupressi_. Among these, _S. cardinale_ is the most destructive of many plants belonging to the Cupressaceae family, and was introduced in the 1940s in Europe from California. Given the devastating impact on Cupressus sempervirens, huge efforts have been made in the past for the selection of CCD-resistant cypress clones. Despite CCD’s significance as a worldwide disease, molecular-based approaches have not been adequately explored, particularly to address CCD host-pathogen interaction. The aim of my doctoral research is to understand the coevolutionary relationship between _S. cardinale_ and _C. sempervirens_, the genes involved in cypress resistance to CCD, and the effect that climate plays on gene expression during the infection.
+### Comparative Genomics
+To assess the evolutionary relationship between Seiridium species, I am conducting a comparative genomics study. This analysis will help identify the genomic features that make Seiridium a lethal pathogen worldwide and explain why S. cardinale became a successful pathogen in the Mediterranean Basin.
 
-Understanding these aspects involves different studies:
+### Host-Pathogen Interaction
+I apply Dual-RNA sequencing to study host-pathogen interactions. This involves inoculating cypress plants with Seiridium cardinale and extracting total RNA from infected tissues. The goal is to characterize the molecular pathways activated in resistant versus susceptible cypress clones post-infection.
 
-- In order to assess the evolutionary relationship between these Seiridium species, I am conducting a comparative genomics study. This analysis will help understand what are the genomic features that made _Seiridum_ such a lethal pathogen worldwide, and why _S. cardinale_ was a successful pathogen in the Mediterranean Basin.
-- To understand host-pathogen interaction, I am applying the Dual-RNA seq technique. This type of experiment involves the inoculation of cypress plants with _Seiridium cardinale_ and then the extraction of total RNA from infected symptomatic tissues. The aim is to characterize at the molecular level why some cypress clones are resistant to the infection. We aim to characterize which pathways resistant plants activate post-infection, while susceptible plants do not.
-- The last aspect of my project involves understanding the climate change effect on the CCD pathosystem. In order to test what happens while infected plants are exposed to different climates, I took advantage of the astonishing climatic diversity that is present in California. I placed three sets of cypress plants in three different locations in California: one along the coast where summer climate is characterized by Mediterranean climate with presence of fog (18°C / 11°C); one in the Bay Area characterized by Mediterranean climate and cold summer (22°C / 12°C); and one in the inland of California characterized by Mediterranean hot summer (34°C / 14°C). The plants will be inoculated and total RNA will be extracted from infected symptomatic tissues. This will help us understand what genes are involved in the infections when plants are exposed to different climates. I aim to produce evidence that will help understand what will happen to cypress plants in the climate change context.
+### Climate Change Effects
+To understand the impact of climate change on the CCD pathosystem, I leverage California’s diverse climates. I placed sets of cypress plants in three locations:
+
+- Coastal Area: Mediterranean climate with fog (18°C / 11°C)
+- Bay Area: Mediterranean climate with cool summer (22°C / 12°C)
+- Inland California: Mediterranean climate with hot summer (34°C / 14°C)
+
+Plants are inoculated, and total RNA is extracted from symptomatic tissues to identify genes involved in the infection under different climatic conditions. This research aims to predict the impact of climate change on cypress trees.
 
 ## Research Sites Map
+_This map shows were the experiment sites are located._
 
 <div class="map-container">
   <iframe src="https://www.google.com/maps/d/embed?mid=1TynoeUeLUmi5j1srqO_q9RzBsv49HBE&ehbc=2E312F" width="640" height="480"></iframe>
