@@ -21,7 +21,7 @@ As a PhD Student, I am examining the interactions between hosts and pathogens, s
 **Computational Biology**: I am a data analysis enthusiast. Since I took my first course on Statistics, I have never stopped coding! I have grown my skills over time and keep learning new computational methods as a passion. I mainly work with [Savio](https://research-it.berkeley.edu/services-projects/high-performance-computing-savio), which is the UC Berkeley computational cluster.
 
 # My PhD Project
-_My doctoral research focuses on understanding the coevolutionary relationship between Seiridium cardinale and Cupressus sempervirens, the genes involved in cypress resistance to Cypress Canker Disease (CCD), and the effect of climate on gene expression during infection._
+_My doctoral research focuses on understanding the host-pathogen interaction between Seiridium cardinale and Cupressus sempervirens. What are the genes involved in cypress resistance to Cypress Canker Disease (CCD)? How the effect of climate on gene expression during infection? These are some of the questions I try to answer._
 
 ### Comparative Genomics
 To assess the evolutionary relationship between Seiridium species, I am conducting a comparative genomics study. This analysis will help identify the genomic features that make Seiridium a lethal pathogen worldwide and explain why S. cardinale became a successful pathogen in the Mediterranean Basin.
