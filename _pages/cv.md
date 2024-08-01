@@ -25,7 +25,7 @@ redirect_from:
 - <span style="font-size:14px;width:600px">**Spring 2016**: Intern, Institute for Sustainable Plant Protection, National Research Council (CNR), Sesto Fiorentino, Italy</span>
 
 ## Awards, Honors, and Grants
-
+- <span style="font-size:14px;width:600px">**Fall 2024**: William Carroll Smith Continuing Fellowship</span>
 - <span style="font-size:14px;width:600px">**January 2024**: Member of the <a href="https://link.springer.com/journal/42161/updates/26325980">Young Editorial Board</a> of the <a href="https://link.springer.com/journal/42161">Journal of Plant Pathology</a></span>
 - <span style="font-size:14px;width:600px">**Summer 2023**: UC Berkeley ESPM Research Funding Grant</span>
 - <span style="font-size:14px;width:600px">**August 2022**: Fulbright Fellow</span>
