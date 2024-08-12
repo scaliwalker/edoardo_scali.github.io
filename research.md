@@ -10,9 +10,9 @@ As a PhD Student, I am examining the interactions between hosts and pathogens, s
 
 ## My Research Interests
 
-**Forest Pathology**: Forests are vital ecosystems and are constatly pressured by human activityes and changing climates. With my research, I want to undesrstand what is the role of pathigen in this challenging scenario. Climate breakdown and the rampant international trade that facilitates the movement of alien organisms exerting significant pressure on forest health. Consequently, forests are becoming more susceptible to attacks from pathogenic microorganisms.
+**Forest Pathology**: Forests are vital ecosystems and are constatly put under pressure by human activityes and changing climates. With my research, I want to understand what is the role of pathogens in this challenging scenario. Climate breakdown and the rampant international trade that facilitates the movement of alien organisms exerting significant pressure on forest health. Consequently, forests are becoming more susceptible to attacks from pathogenic microorganisms.
 
-**Host-Pathogen Interaction**: I study what happens during the plant infection by applying dual-RNA seq. When plants and pathogens interact with each other, many factors can influence the outcome of the disease. With my research, I want to understand these processes in the Cypress Canker Disease pathosystem, characterizing the gene expression of resistant and susceptible plants. 
+**Host-Pathogen Interaction**: I study what happens during the infection of a plant by applying dual-RNA seq. When plants and pathogens interact with each other, many factors can influence the outcome of the disease. With my research, I want to understand these processes in the Cypress Canker Disease pathosystem, characterizing the gene expression of resistant and susceptible plants. 
 
 **Fungal Genomics**: Understanding how fungi cause disease is a key aspect of the genomic analyses I conduct in the context of plant pathology. Fungal genomiucs is a vibrant research topic within which it is possible to answer many questions of biological interest and reveal the secrets of these wonderful organisms. 
 
