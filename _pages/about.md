@@ -11,7 +11,7 @@ I am a Ph.D. student at the [Environemntal Sciencie Policy & Management Departme
 
 My Skills
 ======
-- Plant Pathology
+- Forest Pathology
 - Omics
 - RNA seq
 - Molecular biology
@@ -20,6 +20,8 @@ My Skills
 
 Latest News
 ======
+<span style="color:grey">Aug 2024</span><br/>
+<span style="font-size: 14px">This academic semester I am supported by the: **The Forestry Endowment Fund and the Dr. Glenn Gardner Hahn Endowment Fund**. I am gratefull and honored to recieve this prestigious fellowship. 
 
 <span style="color:grey">July 2024</span><br/>
 <span style="font-size: 14px">**Fulbright Commission Awards Grant from Vinciguerra Fund**. I am pleased to announce that I have been awarded a grant by the Fulbright Commission, funded by the Vinciguerra Fund.
