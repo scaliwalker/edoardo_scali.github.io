@@ -25,9 +25,10 @@ redirect_from:
 - <span style="font-size:14px;width:600px">**Spring 2016**: Intern, Institute for Sustainable Plant Protection, National Research Council (CNR), Sesto Fiorentino, Italy</span>
 
 ## Awards, Honors, and Grants
-- <span style="font-size:14px;width:600px">**Fall 2024**: William Carroll Smith Continuing Fellowship</span>
+- <span style="font-size:14px;width:600px">**Fall 2024**: Continuing fellowship awarded by the Forestry Endowment Fund and the Dr. Glenn Gardner Hahn Endowment Fund</span>
 - <span style="font-size:14px;width:600px">**January 2024**: Member of the <a href="https://link.springer.com/journal/42161/updates/26325980">Young Editorial Board</a> of the <a href="https://link.springer.com/journal/42161">Journal of Plant Pathology</a></span>
 - <span style="font-size:14px;width:600px">**Summer 2023**: UC Berkeley ESPM Research Funding Grant</span>
+- <span style="font-size:14px;width:600px">**Spring 2023**: William Carroll Smith Continuing Fellowship</span>
 - <span style="font-size:14px;width:600px">**August 2022**: Fulbright Fellow</span>
 - <span style="font-size:14px;width:600px">**February 2021**: Recognition of Excellence for MSc Thesis, included in <a href="http://lnx.pubblitesi.it/schede-sintetiche/area-scientifica/1496-edoardo-scali-analyses-on-data-from-airborne-pollen-and-spore-traps-classical-investigation-methods-and-molecular-metabarcoding-with-next-generation-sequencing">PubbliTesi</a> (archive of the excellent Italian thesis)</span>
 - <span style="font-size:14px;width:600px">**September 2020**: Erasmus Program Intern at Swedish University of Agricultural Sciences (SLU), Uppsala, Sweden</span>
