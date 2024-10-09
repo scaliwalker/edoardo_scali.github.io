@@ -6,7 +6,7 @@ author_profile: true
 ---
 _My academic research focusses on the understanding of plant diseases affecting forests and trees. The main pathogens I investigate are fungi._
 
-As a PhD Student, I am examining the interactions between hosts and pathogens, specifically within the Cypress Canker Disease pathosystem. I conduct Dual-RNA sequencing experiments to identify the genes involved in the response to infection and to observe the effects of different climates on infected plants. This aspect is particularly important for understanding how trees respond to diseases in the context of [climate breakdown](https://www.act.nato.int/article/climate-breakdown-and-the-loss-of-biodiversity/#:~:text=Rising%20global%20temperatures%2C%20driven%20by,vital%20ecosystems%20face%20heightened%20risks.).
+As a PhD Student, I am examining the interactions between hosts and pathogens, specifically within the Cypress Canker Disease pathosystem. I conduct Dual-RNA sequencing experiments to identify the genes involved in the response to infection and to observe the effects of different climates on infected plants. This aspect is particularly important for understanding how trees respond to diseases when exposed to climate chenages.
 
 ## My Research Interests
 
@@ -29,7 +29,7 @@ To assess the evolutionary relationship between Seiridium species, I am conducti
 ### Host-Pathogen Interaction
 I apply Dual-RNA sequencing to study host-pathogen interactions. This involves inoculating cypress plants with Seiridium cardinale and extracting total RNA from infected tissues. The goal is to characterize the molecular pathways activated in resistant versus susceptible cypress clones post-infection.
 
-### Climate Effects
+### Climate Change Effect
 To understand the impact of climate breakdown on the CCD pathosystem, I utilize California’s diverse climates. I placed sets of cypress plants in three locations:
 
 - Coastal Area: Mediterranean climate with fog (18°C / 11°C)
@@ -37,18 +37,4 @@ To understand the impact of climate breakdown on the CCD pathosystem, I utilize 
 - Inland California: Mediterranean climate with hot summer (34°C / 14°C)
 
 Plants are inoculated, and total RNA is extracted from symptomatic tissues to identify genes involved in the infection under different climatic conditions. This research aims to predict the impact of the climate on cypress trees health.
-
-## Research Sites Map
-_This map shows were the experiment sites are located._
-
-<div class="map-container">
-  <iframe src="https://www.google.com/maps/d/embed?mid=1TynoeUeLUmi5j1srqO_q9RzBsv49HBE&ehbc=2E312F" width="640" height="480"></iframe>
-</div>
-
-<style>
-.map-container {
-  display: flex;
-  justify-content: center;
-}
-</style>
 
