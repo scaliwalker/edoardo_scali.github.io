@@ -20,6 +20,12 @@ My Skills
 
 Latest News
 ======
+<span style="color:grey">Feb 2025</span><br/>
+<span style="font-size: 14px">A new article is out! Read [Not seeing the tree for the Forest: Scattered trees can be unexpected hotspots of fungal diversity](https://www.sciencedirect.com/science/article/pii/S0006320725000576)
+
+<span style="color:grey">Feb 2025</span><br/>
+<span style="font-size: 14px">A new article is out! Read [[Description of the New Species Laccaria albifolia (Hydnangiaceae, Basidiomycota) and a Reassessment of Laccaria affinis Based on Morphological and Phylogenetic Analyses](https://www.cabidigitallibrary.org/doi/abs/10.1079/planthealthcases.2025.0001)]
+
 <span style="color:grey">Dec 2024</span><br/>
 <span style="font-size: 14px">A new article is out! Read [Description of the New Species Laccaria albifolia (Hydnangiaceae, Basidiomycota) and a Reassessment of Laccaria affinis Based on Morphological and Phylogenetic Analyses](https://www.mdpi.com/2309-608X/11/1/11) 
 
