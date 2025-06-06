@@ -7,19 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the [Environemntal Sciencie Policy & Management Department](https://ourenvironment.berkeley.edu/) of the University of California, Berkeley and I am a Graduate Student at [Garbelotto Lab](https://nature.berkeley.edu/matteolab/?page_id=12). I started my Ph.D. experience in the Fall of 2022 as a Fulbright Scholar. I did my undergraduate and graduate studies at the Univeristy of Florence, Italy with a BS in Forestry and Environmental Science, an MS Reception of Migrants: Legislation, Social Integration Policies, and Health Issues as well as an MS in Forest System Sciences and Technologies. After this experience, I recieved an MS in Forest System Science and Technologies. My [research](https://kinoppyi.github.io/edoardo_scali.github.io/research/) interests lie in the field of plant pathology and the application of bioinformatics techinques with a focus on host-pathogen interactions in forest pathosystems.  
+I am a Ph.D. candidate at the [Environemntal Sciencie Policy & Management Department](https://ourenvironment.berkeley.edu/) of the University of California, Berkeley affiliated with the [Garbelotto Lab](https://nature.berkeley.edu/matteolab/?page_id=12). I started my Ph.D. in the Fall of 2022 as a Fulbright Scholar. I did my undergraduate and graduate studies at the Univeristy of Florence, Italy obtaining a BS in Forestry and Environmental Science; an MS Reception of Migrants: Legislation, Social Integration Policies, and Health Issues; as well as an MS in Forest System Sciences and Technologies. My [research](https://kinoppyi.github.io/edoardo_scali.github.io/research/) interests are Forest and Planth Pathology, with a special emphasis on host-pathogen interactions. 
 
 My Skills
 ======
 - Forest Pathology
 - Omics
-- RNA seq
+- RNA seq and gene expression
 - Molecular biology
 - Computational biology
 - Biostatisics
 
 Latest News
 ======
+<span style="color:grey">Dec 2024</span><br/>
+<span style="font-size: 14px">A new article is out! Read [Description of the New Species Laccaria albifolia (Hydnangiaceae, Basidiomycota) and a Reassessment of Laccaria affinis Based on Morphological and Phylogenetic Analyses](https://www.mdpi.com/2309-608X/11/1/11) 
+
 <span style="color:grey">Aug 2024</span><br/>
 <span style="font-size: 14px">This academic semester I am supported by the: **The Forestry Endowment Fund and the Dr. Glenn Gardner Hahn Endowment Fund**. I am gratefull and honored to recieve this prestigious fellowship. 
 
