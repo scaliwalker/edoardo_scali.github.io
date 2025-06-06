@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the [Environemntal Sciencie Policy & Management Department](https://ourenvironment.berkeley.edu/) of the University of California, Berkeley affiliated with the [Garbelotto Lab](https://nature.berkeley.edu/matteolab/?page_id=12). I started my Ph.D. in the Fall of 2022 as a Fulbright Scholar. I did my undergraduate and graduate studies at the Univeristy of Florence, Italy obtaining a BS in Forestry and Environmental Science; an MS Reception of Migrants: Legislation, Social Integration Policies, and Health Issues; as well as an MS in Forest System Sciences and Technologies. My [research](https://kinoppyi.github.io/edoardo_scali.github.io/research/) interests are Forest and Planth Pathology, with a special emphasis on host-pathogen interactions. 
+I am a Ph.D. candidate at the [Environemntal Sciencie Policy & Management Department](https://ourenvironment.berkeley.edu/) of the University of California, Berkeley, affiliated with the [Garbelotto Lab](https://nature.berkeley.edu/matteolab/?page_id=12). I started my Ph.D. in the Fall of 2022 as a Fulbright Scholar. I did my undergraduate and graduate studies at the Univeristy of Florence, Italy obtaining a BS in Forestry and Environmental Science; an MS Reception of Migrants: Legislation, Social Integration Policies, and Health Issues; as well as an MS in Forest System Sciences and Technologies. My [research](https://kinoppyi.github.io/edoardo_scali.github.io/research/) interests are Forest and Planth Pathology, with a special emphasis on host-pathogen interactions. 
 
 My Skills
 ======
@@ -20,6 +20,9 @@ My Skills
 
 Latest News
 ======
+<span style="color:grey">Apr 2025</span><br/>
+<span style="font-size: 14px">I am honored to annouce that the **Van Den Bosch, Robert Memorial Scholarship Fund** will support my research for the next Spring semester at Cal. 
+
 <span style="color:grey">Feb 2025</span><br/>
 <span style="font-size: 14px">A new article is out! Read [Not seeing the tree for the Forest: Scattered trees can be unexpected hotspots of fungal diversity](https://www.sciencedirect.com/science/article/pii/S0006320725000576)
 
