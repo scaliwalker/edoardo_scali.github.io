@@ -6,7 +6,7 @@ author_profile: true
 ---
 _My academic research focusses on the understanding of plant diseases affecting forests and trees. The main pathogens I investigate are fungi._
 
-As a PhD Student, I am examining the interactions between hosts and pathogens, specifically within the Cypress Canker Disease pathosystem. I conduct Dual-RNA sequencing experiments to identify the genes involved in the response to infection and to observe the effects of different climates on infected plants. This aspect is particularly important for understanding how trees respond to diseases when exposed to climate chenages.
+As a PhD Student, I study the interactions between hosts and pathogens. I use the Cypress Canker Disease pathosystem as a model to understand such interactions. I conduct Dual-RNA seq experiments to identify the genes involved in the response to infection and to observe the effects of different climates on infected plants. This aspect is particularly important for understanding how trees respond to diseases when exposed to changing climates.
 
 # My Research Interests
 
