@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-_My academic research focusses on the understanding of plant diseases affecting forests and trees. The main pathogens I investigate are fungi._
+_My research focuses on understanding plant diseases in forest ecosystems, with a particular emphasis on fungal pathogens_
 
 As a PhD Student, I study the interactions between hosts and pathogens. I use the Cypress Canker Disease pathosystem as a model to understand such interactions. I conduct Dual-RNA seq experiments to identify the genes involved in the response to infection and to observe the effects of different climates on infected plants. This aspect is particularly important for understanding how trees respond to diseases when exposed to changing climates.
 
