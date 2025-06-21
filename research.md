@@ -8,19 +8,30 @@ _My research investigates plant disease dynamics in forest ecosystems, focusing 
 
 # Research Overview 
 
-> My doctoral research explores how fungal pathogens drive plant disease dynamics in forest ecosystems. I use the Cypress Canker Disease pathosystem as a model to understand such interactions. I conduct Dual-RNA seq experiments to identify the genes involved in the response to infection and to observe the effects of different climates on infected plants. This aspect is particularly important for understanding how trees respond to diseases when exposed to changing climates, providing insights into the impacts of climate change on forest health.
+> My doctoral research explores how fungal pathogens drive plant disease dynamics in forest ecosystems. I use the Cypress Canker Disease (CCD) pathosystem as a model to understand such interactions. I conduct Dual-RNA seq experiments to identify the genes involved in the response to infection and to observe the effects of different climates on infected plants. This aspect is particularly important for understanding how trees respond to diseases when exposed to changing climates, providing insights into the impacts of climate change on forest health.
 
 # Research Interests
 
-**Forest Pathology**: Forests are vital ecosystems and are constatly put under pressure by human activityes and changing climates. With my research, I want to understand what is the role of pathogens in this challenging scenario. Climate breakdown and the rampant international trade that facilitates the movement of alien organisms exerting significant pressure on forest health. Consequently, forests are becoming more susceptible to attacks from pathogenic microorganisms.
+**Forest Pathology**
+I investigate fungal disease processes and their impact on forest health, developing insights for sustainable disease management in forest ecosystems.
 
-**Host-Pathogen Interaction**: I study what happens during the infection of a plant by applying dual-RNA seq. When plants and pathogens interact with each other, many factors can influence the outcome of the disease. With my research, I want to understand these processes in the Cypress Canker Disease pathosystem, characterizing the gene expression of resistant and susceptible plants. 
+**Host-Pathogen Interaction**
+I use dual RNA‑seq to examine host and pathogen transcriptomes simultaneously, elucidating molecular mechanisms of resistance and susceptibility, and assessing how climatic factors modulate these interactions.
 
-**Fungal Genomics**: Understanding how fungi cause disease is a key aspect of the genomic analyses I conduct in the context of plant pathology. Fungal genomics is a vibrant area of research within which it is possible to answer many questions of biological interest and reveal the secrets of these wonderful organisms. 
+**Fungal Genomics & Evolution**
+I conduct comparative genomics of _Seiridium_ species and other fungi to uncover genetic determinants of pathogenicity and to investigate coevolutionary dynamics between hosts and pathogens.
 
-**Evolution and Coevolution**: One of the most interesting questions in biology consists of the understanding of the evolutionary mechanisms that lead certain organisms to become pathogens. When this aspect is further expanded, and we consider the reciprocal influence that pathogens and hosts exert on each other's populations. This allows to answer key questions in the context of host-pathogen interaction, providing crucial knowledge for the succesfull management of plant diseases. 
+**Molecular Ecology**
+I study the diversity and ecological roles of airborne and wood-inhabiting fungal communities, using metabarcoding and phylogenetic approaches.
 
-**Computational Biology**: I am a data analysis enthusiast. Since I took my first course on Statistics, I have never stopped coding! I have grown my skills over time and keep learning new computational methods as a passion. I mainly work with [Savio](https://research-it.berkeley.edu/services-projects/high-performance-computing-savio), which is UC Berkeley's computational cluster. 
+**Ancient DNA & Barcoding**
+I extract and sequence DNA from historical herbarium specimens to reconstruct past fungal diversity and distribution, providing a temporal perspective on ecosystem change.
+
+**Biocontrol Development**
+I identify and test potential biological control agents for mitigating _Heterobasidion_ root rot in forests, integrating genomics and ecological data.
+
+**Computational Biology**
+As a passionate coder, I use high-performance computing on UC Berkeley’s [Savio](https://research-it.berkeley.edu/services-projects/high-performance-computing-savio) cluster to develop pipelines for transcriptomics, phylogenomics, and ecological data analyses 
 
 # Research Projects
 
