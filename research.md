@@ -40,7 +40,7 @@ My PhD research centers on the Cypress Canker Disease (CCD) pathosystem, investi
 - Which genes are associated with resistance in cypress to CCD?
 - How does climate affect gene expression during infection?
 
-I employ dual-RNA sequencing to analyze molecular interactions and evaluate how distinct climates influence these dynamics. My experimental setup spans multiple California climate zones, from coastal fog-influenced areas to inland Mediterranean climates with hot summers, providing insights on climate-related risks for tree health.
+I use dual-RNA seq to analyze molecular interactions and evaluate how distinct climates influence these dynamics. My experimental setup spans multiple California climate zones, from coastal fog-influenced areas to inland Mediterranean climates with hot summers, providing insights on climate-related risks for tree health.
 Complementing this, my comparative genomics analyses among Seiridium species explore evolutionary factors underpinning pathogenicity.
 
 ## Molecular ecology of Fungal Communities
