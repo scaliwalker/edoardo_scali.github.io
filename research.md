@@ -10,7 +10,7 @@ _My research investigates plant disease dynamics in forest ecosystems, focusing 
 
 > My doctoral research explores how fungal pathogens drive plant disease dynamics in forest ecosystems. I use the Cypress Canker Disease (CCD) pathosystem as a model to understand such interactions. I conduct Dual-RNA seq experiments to identify the genes involved in the response to infection and to observe the effects of different climates on infected plants. This aspect is particularly important for understanding how trees respond to diseases when exposed to changing climates, providing insights into the impacts of climate change on forest health.
 
-![Inoculation of cypress sedling](/image/inoculation_1.jpg)
+![Inoculation of cypress sedling](/images/inoculation_1.jpg)
 
 # Research Interests
 
