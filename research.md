@@ -27,7 +27,7 @@ Complementing this, my comparative genomics analyses among _Seiridium_ species e
 
 ### Molecular Ecology of Fungal Communities
 
-I investigate ecological roles, diversity, and dynamics of airborne fungal communities and wood-inhabiting fungal communities. 
+I employ metabarcoding techniques to profile microbial communities in specific environments, with a focus on fungi. By extracting environmental DNA (eDNA), I identify the species that characterize fungal assemblages in a given habitat. In addition to studying airborne fungal communities, I investigate fungi associated with different forest environments by analyzing those inhabiting stem surfaces (caulosphere) and wood substrates.
 
 ### Ancient DNA and barcoding of old fungal specimen from herbarium collections
 
