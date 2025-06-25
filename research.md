@@ -38,8 +38,7 @@ I apply molecular techniques to extract DNA from historical herbarium specimens 
 ### Genomics
 Genomes are powerful tools that can greatly expand our understanding of an organism’s biology. For example, phylogenetic trees built from a few loci often lack the resolution of those based on whole-genome data. Generating high-quality genomes requires obtaining high–molecular-weight DNA, proficiency with multiple sequencing platforms, and mastery of computational methods for assembly and annotation. In my research, I apply these steps to study host–pathogen interactions in the Cypress Canker Disease pathosystem. Because non-model systems frequently lack essential genomic resources, producing reference-quality genomes is critical for addressing scientific questions and testing hypotheses.
 
-
 ### Development of biocontrol agents
-Developent Biocontrol ne of the strategy that can applied to the mitigation of forest disease is the 
-
+The developement of a biocontrol agent is a sustainable approach to pest and disease management. One of the major problem in conifer forest is the impoact of _Heterobasidion_ root rot. This fungus take advantage of cutted stumps, travelling throught the root anastomosis to infect standing trees. 
+I am involved in a project that aim to develop an effective biocontrol of _Heterobasidion_ root rot in the West Coast of the United States. We test how different strains of _Phlebiopsis gigantea_ are stopping or reducing the growth of Heterobasidion in cutted stumps.  
 
