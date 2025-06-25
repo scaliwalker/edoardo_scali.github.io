@@ -11,7 +11,7 @@ _My research investigates plant disease dynamics in forest ecosystems, focusing 
 > My research covers different aspects of forest pathology, from studying disease processes and interactions within fungal communities to exploring pathogen evolution, with a strong emphasis on statistical methods and computational biology. I study the Cypress Canker Disease pathosystem and apply dual RNA-seq, combining ecological, transcriptomic, genomic, and environmental data to clarify mechanisms host-pathogen interaction that affect the health of forest ecosystems. 
 
 <figure>
-  <img src="{{ "/images/inoculation_1.jpg" | relative_url }}" alt="Inoculation of cypress seedling">
+  <img src="/images/inoculation_1.jpg" alt="Inoculation of cypress seedling">
   <figcaption>Inoculation of cypress seedling in greenhouse conditions.</figcaption>
 </figure>
 
