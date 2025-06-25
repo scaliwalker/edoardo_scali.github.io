@@ -2,37 +2,23 @@
 layout: default
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }} | {{ site.title }}</title>
-  <!-- Qui carichi il tuo CSS con il baseurl corretto -->
-  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-</head>
-<body>
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
 
-  {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-    {% include page__hero.html %}
-  {% endif %}
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
 
-  {% if page.url != "/" and site.breadcrumbs %}
-    {% unless paginator %}
-      {% include breadcrumbs.html %}
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
-  {% endif %}
-
-  <div id="main" role="main">
-    {% include sidebar.html %}
-
-    <div class="archive">
-      {% unless page.header.overlay_color or page.header.overlay_image %}
-        <h1 class="page__title">{{ page.title }}</h1>
-      {% endunless %}
-      {{ content }}
-    </div>
+    {{ content }}
   </div>
-
-</body>
-</html>
+</div>
