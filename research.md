@@ -11,8 +11,8 @@ _My research investigates plant disease dynamics in forest ecosystems, focusing 
 > My research covers different aspects of forest pathology, from studying disease processes and interactions within fungal communities to exploring pathogen evolution, epidemiology of invasive populations, with a strong emphasis on statistical methods and computational biology. I am interestted in understanding host-pathogen interaction in non-model pathosystems. My goal is to produce research that will help sustainable protecioon of forest ecosystems and improvement of forest health. 
 
 <figure>
-  <img src="/images/inoculation_1.jpg" alt="Inoculation of cypress seedling">
-  <figcaption><em>Inoculation of cypress seedling in greenhouse conditions.</em></figcaption>
+  <img src="{{ '/images/inoculation_1.jpg' | relative_url }}" alt="Inoculation of cypress seedling">
+  <figcaption style="color:gray"><em>Inoculation of cypress seedling in greenhouse conditions.</em></figcaption>
 </figure>
 
 # Research Projects
