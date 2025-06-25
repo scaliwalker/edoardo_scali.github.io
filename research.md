@@ -4,13 +4,16 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-_My research investigates plant disease dynamics in forest ecosystems, focusing on fungal pathogens and their interactions with host trees across diverse environmental contexts._
+_My research investigates plant disease dynamics in forest ecosystems, focusing on fungal pathogens and their interactions with host trees._
 
 # Research Overview 
 
-> My research covers different aspects of forest pathology, from studying disease processes and interactions within fungal communities to exploring pathogen evolution, with a strong emphasis on statistical methods and computational biology. Focusing on the Cypress Canker Disease pathosystem and using high-throughput dual RNA-seq, I combine ecological, transcriptomic, genomic, and environmental data to clarify mechanisms of disease resistance, community behavior, and evolutionary changes that affect health of forest ecosystems. I am invol,ved in all aspect of my rwzea
+> My research covers different aspects of forest pathology, from studying disease processes and interactions within fungal communities to exploring pathogen evolution, with a strong emphasis on statistical methods and computational biology. I study the Cypress Canker Disease pathosystem and apply dual RNA-seq, combining ecological, transcriptomic, genomic, and environmental data to clarify mechanisms host-pathogen interaction that affect the health of forest ecosystems. 
 
-![Inoculation of cypress sedling](/images/inoculation_1.jpg)
+<figure>
+  <img src="{{ "/images/inoculation_1.jpg" | relative_url }}" alt="Inoculation of cypress seedling">
+  <figcaption>Inoculation of cypress seedling in greenhouse conditions.</figcaption>
+</figure>
 
 # Research Projects
 
