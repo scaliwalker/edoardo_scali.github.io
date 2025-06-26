@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-Spring-teaching-1
 venue: "University of California, Berkeley, ESPM Department"
-date: 2015-01-01
+date: 2024-04-01
 location: "Berkeley (CA), USA"
 ---
 
