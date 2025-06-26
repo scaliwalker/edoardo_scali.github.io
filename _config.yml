@@ -6,6 +6,8 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+# In order to edit website tags (e.g. Research, Teaching, etc... sections of the website) edit the file data/navigation.yml
+
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Edoardo Scali"
