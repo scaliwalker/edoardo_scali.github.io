@@ -8,13 +8,6 @@ date: 2025-01-01
 location: "Berkeley (CA), USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Basic biological and ecological principles discussed in relation to environmental disruptions. Human interactions with the environment; their meaning for animals and plants. Discussion of basic ecological processes as a basis for understanding environmental problems and formulating strategies for their solution.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
