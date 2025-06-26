@@ -10,7 +10,7 @@ _My research investigates plant disease dynamics in forest ecosystems, focusing 
 
 > My research covers different aspects of forest pathology, from studying disease processes and interactions within fungal communities to exploring pathogen evolution, epidemiology of invasive populations, with a strong emphasis on statistical methods and computational biology. I am interestted in understanding host-pathogen interaction in non-model pathosystems. My goal is to produce research that will help sustainable protecioon of forest ecosystems and improvement of forest health. 
 
-<img src="/images/inoculation_1.jpg" alt="Inoculation of cypress seedling with _Seiridium cardinale_">
+<img src="/edoardo_scali.github.io/images/inoculation_1.jpg" alt="Inoculation of cypress seedling with _Seiridium cardinale_">
 
 # Research Projects
 
