@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the [Environemntal Sciencie Policy & Management Department](https://ourenvironment.berkeley.edu/) of the University of California, Berkeley, affiliated with the [Garbelotto Lab](https://nature.berkeley.edu/matteolab/?page_id=12). I started my Ph.D. in the Fall of 2022 as a Fulbright Scholar. I did my undergraduate and graduate studies at the Univeristy of Florence, Italy obtaining a BS in [Forestry and Environmental Science](https://www.forestambiente.unifi.it/index.html?newlang=eng); an MS [Reception of Migrants: Legislation, Social Integration Policies, and Health Issues](https://www.unifimagazine.it/la-salute-della-popolazione-migrante-parte-uno-studio/); as well as an MS in [Forest System Sciences and Technologies](https://www.forestambiente-magistrale.unifi.it/index.html?newlang=eng). My main research interests are Forest and Planth Pathology, with a special focus on host-pathogen interactions. 
+I am a Ph.D. candidate in the [Department of Environmental Science, Policy, and Management](https://ourenvironment.berkeley.edu/) of UC Berkeley, affiliated with the [Garbelotto Lab](https://nature.berkeley.edu/matteolab/?page_id=12). I started my Ph.D. in 2022 as a Fulbright Scholar. I earned my undergraduate and graduate degrees at the Univeristy of Florence (Italy) obtaining a BS in [Forestry and Environmental Science](https://www.forestambiente.unifi.it/index.html?newlang=eng); an MS in [Reception of Migrants: Legislation, Social Integration Policies, and Health Issues](https://www.unifimagazine.it/la-salute-della-popolazione-migrante-parte-uno-studio/); as well as an MS in [Forest System Sciences and Technologies](https://www.forestambiente-magistrale.unifi.it/index.html?newlang=eng). My main research interests are Forest and Planth Pathology, with a special focus on host-pathogen interactions. 
 
-My Skills
+My Expertise
 ======
 - Forest Pathology
 - Mycology
@@ -19,10 +19,10 @@ My Skills
 - Computational biology
 - Biostatisics
 
-Latest News
+My Updates
 ======
 <span style="color:grey">Apr 2025</span><br/>
-<span style="font-size: 14px">I am honored to annouce that the **Van Den Bosch, Robert Memorial Scholarship Fund** will support my research for the next Spring semester at Cal. 
+<span style="font-size: 14px">I am honored to annouce that the **Robert Van Den Bosch Memorial Scholarship Fund** will support my research for the next Spring semester. 
 
 <span style="color:grey">Feb 2025</span><br/>
 <span style="font-size: 14px">A new article is out! Read [Not seeing the tree for the Forest: Scattered trees can be unexpected hotspots of fungal diversity](https://www.sciencedirect.com/science/article/pii/S0006320725000576)
