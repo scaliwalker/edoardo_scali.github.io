@@ -17,32 +17,29 @@ My Expertise
 - RNA seq and gene expression
 - Computational biology
 
-📅 Availability
-======
-I am expected to complete my Ph.D. in Spring 2027. I am open to postdoctoral positions, research collaborations, and other opportunities at the interface of forest health, microbial ecology, mycology, and plant-microbe interactions. Do not hesitate to get in touch at edoardo_scali@berkeley.edu.
 
 My Updates
 ======
-<span style="color:grey">Apr 2025</span><br/>
-<span style="font-size: 14px">I am honored to annouce that the **Robert Van Den Bosch Memorial Scholarship Fund** will support my research for the next Spring semester. 
+## My Updates
 
-<span style="color:grey">Feb 2025</span><br/>
-<span style="font-size: 14px">A new article is out! Read [Not seeing the tree for the Forest: Scattered trees can be unexpected hotspots of fungal diversity](https://www.sciencedirect.com/science/article/pii/S0006320725000576)
+📌 I am expected to complete my Ph.D. in Spring 2027 and am actively seeking postdoctoral opportunities. If you work at the interface of forest health, microbial ecology, and plant-microbe interactions — let's connect at edoardo_scali@berkeley.edu.
 
-<span style="color:grey">Feb 2025</span><br/>
-<span style="font-size: 14px">A new article is out! Read [[Description of the New Species Laccaria albifolia (Hydnangiaceae, Basidiomycota) and a Reassessment of Laccaria affinis Based on Morphological and Phylogenetic Analyses](https://www.cabidigitallibrary.org/doi/abs/10.1079/planthealthcases.2025.0001)]
+---
 
-<span style="color:grey">Dec 2024</span><br/>
-<span style="font-size: 14px">A new article is out! Read [Description of the New Species Laccaria albifolia (Hydnangiaceae, Basidiomycota) and a Reassessment of Laccaria affinis Based on Morphological and Phylogenetic Analyses](https://www.mdpi.com/2309-608X/11/1/11) 
+May 2026
+🌺 This summer I will be in Hawaiʻi for two months conducting fieldwork on Rapid ʻŌhiʻa Death (ROD), in collaboration with the USDA Forest Service and the University of Hawaiʻi at Hilo. I will be investigating the holobiont associated with healthy and diseased ʻōhiʻa trees across disease gradients.
 
-<span style="color:grey">Aug 2024</span><br/>
-<span style="font-size: 14px">This academic semester I am supported by the: **The Forestry Endowment Fund and the Dr. Glenn Gardner Hahn Endowment Fund**. I am gratefull and honored to recieve this prestigious fellowship. 
+May 2026
+I have been awarded the **Summer 2026 Research Funding Grant** by the ESPM Department and the **Vinciguerra Fund Award** by the Fulbright Commission to support my dissertation research.
 
-<span style="color:grey">July 2024</span><br/>
-<span style="font-size: 14px">**Fulbright Commission Awards Grant from Vinciguerra Fund**. I am pleased to announce that I have been awarded a grant by the Fulbright Commission, funded by the Vinciguerra Fund.
+Apr 2025
+I am honored to announce that the **Robert Van Den Bosch Memorial Scholarship Fund** will support my research for the Spring 2025 semester.
 
-<span style="color:grey">June 2024</span><br/>
-<span style="font-size: 14px">My paper [Genome assembly of two California isolates of Seiridium cardinale (BM-138-000494 and BM-138-000479)](https://link.springer.com/article/10.1007/s42161-024-01665-5) is out now!    
+Spr. 2025
+I have been awarded the **William Carroll Smith Fellowship** for the Spring 2025 semester.
+
+Fall 2024
+I have been awarded the **Forestry Endowment Fund** and the **Dr. Glenn Gardner Hahn Endowment Fund** fellowships for the Fall 2024 semester.
 
 
 
