@@ -20,7 +20,6 @@ My Expertise
 
 My Updates
 ======
-## My Updates
 
 📌 I am expected to complete my Ph.D. in Spring 2027 and am actively seeking postdoctoral opportunities. If you work at the interface of forest health, microbial ecology, and plant-microbe interactions — let's connect at edoardo_scali@berkeley.edu.
 
