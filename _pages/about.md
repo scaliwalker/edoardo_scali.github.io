@@ -7,19 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the [Department of Environmental Science, Policy, and Management](https://ourenvironment.berkeley.edu/) of UC Berkeley, affiliated with the [Garbelotto Lab](https://nature.berkeley.edu/matteolab/?page_id=12). I started my Ph.D. in 2022 as a Fulbright Scholar. I earned my undergraduate and graduate degrees at the Univeristy of Florence (Italy) obtaining a BS in [Forestry and Environmental Science](https://www.forestambiente.unifi.it/index.html?newlang=eng); an MS in [Reception of Migrants: Legislation, Social Integration Policies, and Health Issues](https://www.unifimagazine.it/la-salute-della-popolazione-migrante-parte-uno-studio/); as well as an MS in [Forest System Sciences and Technologies](https://www.forestambiente-magistrale.unifi.it/index.html?newlang=eng). My main research interests are Forest and Planth Pathology, with a special focus on host-pathogen interactions. 
+I am a Ph.D. candidate in the [Department of Environmental Science, Policy, and Management](https://ourenvironment.berkeley.edu/) of UC Berkeley, affiliated with the [EVO Lab](https://sites.google.com/berkeley.edu/evolab/home). I started my Ph.D. in 2022 as a Fulbright Scholar. I earned my undergraduate and graduate degrees at the University of Florence (Italy) obtaining a BS in [Forestry and Environmental Science](https://www.forestambiente.unifi.it/index.html?newlang=eng); an MS in [Reception of Migrants: Legislation, Social Integration Policies, and Health Issues](https://www.unifimagazine.it/la-salute-della-popolazione-migrante-parte-uno-studio/); as well as an MS in [Forest System Sciences and Technologies](https://www.forestambiente-magistrale.unifi.it/index.html?newlang=eng). My main research interests are Forest Health with special emphasis on interactions between plants and microbial communities. 
 
 My Expertise
 ======
-- Forest Pathology
+- Forest Health
+- Molecular Ecology
 - Mycology
-- Omics
 - RNA seq and gene expression
-- Molecular biology
 - Computational biology
-- Biostatisics
 
+📅 Availability
+I am expected to complete my Ph.D. in Spring 2027 and am actively seeking postdoctoral opportunities in forest health, microbial ecology, and plant-microbe interactions. Feel free to reach out at edoardo_scali@berkeley.edu.
 My Updates
+
 ======
 <span style="color:grey">Apr 2025</span><br/>
 <span style="font-size: 14px">I am honored to annouce that the **Robert Van Den Bosch Memorial Scholarship Fund** will support my research for the next Spring semester. 
