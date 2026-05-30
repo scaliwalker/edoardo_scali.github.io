@@ -4,7 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-I investigate plant disease dynamics in forest ecosystems, focusing on fungal pathogens and their interactions with host trees.
 
 # Research 
 
