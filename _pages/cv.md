@@ -25,17 +25,17 @@ redirect_from:
 
 ## Awards, Honors, and Grants
 
-- **May 2026**: Summer 2026 Research Funding Grant, ESPM Department, UC Berkeley
-- **May 2026**: Vinciguerra Fund Award, Fulbright Commission
-- **May 2025**: Summer 2025 Research Funding Grant, ESPM Department, UC Berkeley
-- **April 2025**: Continuing Fellowship, Robert Van Den Bosch Memorial Scholarship Fund
-- **Spring 2025**: Continuing Fellowship, William Carroll Smith Fellowship Fund
-- **Fall 2024**: Continuing Fellowship, Forestry Endowment Fund and Dr. G. Gardner Hahn Fund
-- **August 2024**: UC Berkeley QB3 Genomics Sequencing Grant, TEK Talk Raffle Award
-- **July 2024**: Vinciguerra Fund Award, Fulbright Commission
-- **April 2024**: Summer 2024 Research Funding Grant, ESPM Department, UC Berkeley
-- **January 2024**: Member of the <a href="https://link.springer.com/journal/42161/updates/26325980">Young Editorial Board</a> of the <a href="https://link.springer.com/journal/42161">Journal of Plant Pathology</a>
-- **March 2023**: Summer 2023 Research Funding Grant, ESPM Department, UC Berkeley
-- **February 2021**: Recognition of Excellence for MSc Thesis, included in <a href="http://lnx.pubblitesi.it/schede-sintetiche/area-scientifica/1496-edoardo-scali-analyses-on-data-from-airborne-pollen-and-spore-traps-classical-investigation-methods-and-molecular-metabarcoding-with-next-generation-sequencing">PubbliTesi</a>
-- **August 2022**: Fulbright Fellow
-- **September 2020**: Erasmus Program Intern at Swedish University of Agricultural Sciences (SLU), Uppsala, Sweden
+- <span style="font-size:14px">**May 2026**: Summer 2026 Research Funding Grant, ESPM Department, UC Berkeley</span>
+- <span style="font-size:14px">**May 2026**: Vinciguerra Fund Award, Fulbright Commission</span>
+- <span style="font-size:14px">**May 2025**: Summer 2025 Research Funding Grant, ESPM Department, UC Berkeley</span>
+- <span style="font-size:14px">**April 2025**: Continuing Fellowship, Robert Van Den Bosch Memorial Scholarship Fund</span>
+- <span style="font-size:14px">**Spring 2025**: Continuing Fellowship, William Carroll Smith Fellowship Fund</span>
+- <span style="font-size:14px">**Fall 2024**: Continuing Fellowship, Forestry Endowment Fund and Dr. G. Gardner Hahn Fund</span>
+- <span style="font-size:14px">**August 2024**: UC Berkeley QB3 Genomics Sequencing Grant, TEK Talk Raffle Award</span>
+- <span style="font-size:14px">**July 2024**: Vinciguerra Fund Award, Fulbright Commission</span>
+- <span style="font-size:14px">**April 2024**: Summer 2024 Research Funding Grant, ESPM Department, UC Berkeley</span>
+- <span style="font-size:14px">**January 2024**: Member of the <a href="https://link.springer.com/journal/42161/updates/26325980">Young Editorial Board</a> of the <a href="https://link.springer.com/journal/42161">Journal of Plant Pathology</a></span>
+- <span style="font-size:14px">**March 2023**: Summer 2023 Research Funding Grant, ESPM Department, UC Berkeley</span>
+- <span style="font-size:14px">**August 2022**: Fulbright Fellow</span>
+- <span style="font-size:14px">**February 2021**: Recognition of Excellence for MSc Thesis, included in <a href="http://lnx.pubblitesi.it/schede-sintetiche/area-scientifica/1496-edoardo-scali-analyses-on-data-from-airborne-pollen-and-spore-traps-classical-investigation-methods-and-molecular-metabarcoding-with-next-generation-sequencing">PubbliTesi</a></span>
+- <span style="font-size:14px">**September 2020**: Erasmus Program Intern at Swedish University of Agricultural Sciences (SLU), Uppsala, Sweden</span>
