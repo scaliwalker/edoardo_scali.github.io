@@ -18,9 +18,10 @@ My Expertise
 - Computational biology
 
 📅 Availability
-I am expected to complete my Ph.D. in Spring 2027 and am actively seeking postdoctoral opportunities in forest health, microbial ecology, and plant-microbe interactions. Feel free to reach out at edoardo_scali@berkeley.edu.
-My Updates
+======
+I am expected to complete my Ph.D. in Spring 2027. I am open to postdoctoral positions, research collaborations, and other opportunities at the interface of forest health, microbial ecology, mycology, and plant-microbe interactions. Do not hesitate to get in touch at edoardo_scali@berkeley.edu.
 
+My Updates
 ======
 <span style="color:grey">Apr 2025</span><br/>
 <span style="font-size: 14px">I am honored to annouce that the **Robert Van Den Bosch Memorial Scholarship Fund** will support my research for the next Spring semester. 
