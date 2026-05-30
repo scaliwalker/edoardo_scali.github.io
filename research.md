@@ -6,36 +6,24 @@ author_profile: true
 ---
 I investigate plant disease dynamics in forest ecosystems, focusing on fungal pathogens and their interactions with host trees.
 
-# Research Overview 
+# Research 
 
-> My research covers different aspects of forest pathology, from studying disease processes and interactions within fungal communities to exploring pathogen evolution, as well as epidemiology of invasive populations. Additionally, my approach focuses on statistical methods, rigorous research designs, and computational biology. I am interested in understanding host-pathogen interaction, especially in non-model pathosystems which are often encountered in forest pathology. My goal is to produce research that will support the sustainable protection of forest ecosystems and the improvement of forest health. 
+> I investigate how forest ecosystems respond to biological and environmental stress, with a focus on the interactions between trees and their associated microbial communities. My work integrates microbial ecology, fungal genomics, and molecular diagnostics to understand how host-microbiome dynamics shape forest health across different ecosystems and disturbance regimes.
 
-<img src="/edoardo_scali.github.io/images/inoculation_1.jpg" alt="Inoculation of cypress seedling with _Seiridium cardinale_">
+# Research Themes
 
-# Research Projects
+## Forest Health & Plant-Microbiome Interactions
+I study how fungal pathogens and microbial communities shape tree health across contrasting forest ecosystems. A central part of my work focuses on the Cypress Canker Disease (CCD) pathosystem, investigating the molecular dialogue between _Seiridium cardinale_ and _Cupressus sempervirens_ — one of the few documented pandemic plant diseases. Using dual-RNA seq across multiple California climate zones, I examine how distinct environmental conditions influence gene expression during infection, and which host genes are associated with resistance. Complementing this, comparative genomics analyses across _Seiridium_ species illuminate the evolutionary basis of pathogenicity and the adaptation of invasive populations.
 
-### Doctoral Research
-My PhD research focus on the Cypress Canker Disease (CCD) pathosystem. I investigate the interactions between _Seiridium cardinale_ and _Cupressus sempervirens_. Despite the fact that CCD is a non-model pathosystem, it is one of the rare example of a pandemic in plant pathology.    
+I also investigate microbial communities associated with the decline of Screwbean mesquite (_Prosopis pubescens_) in the Mojave Desert and Death Valley — an enigmatic dieback affecting a keystone riparian species in one of North America's most extreme environments. This work explores how abiotic stress and microbial community shifts interact to drive tree decline beyond traditional forest boundaries.
 
-Key research questions that I work to answer include:
+Finally, I am involved in a project developing biocontrol strategies against _Heterobasidion_ root rot in West Coast conifer forests — a major threat to standing trees that spreads through root anastomosis from infected stumps. We test how different strains of _Phlebiopsis gigantea_ can suppress or reduce _Heterobasidion_ growth, contributing to more sustainable forest disease management.
 
-_Which genes are associated with resistance to CCD in cypress?_
 
-_How does climate change affect gene expression during the infection process?_
+## Forest Health in Island Ecosystems 
+Island ecosystems — characterized by high endemism, ecological isolation, and heightened vulnerability to biological invasions — offer powerful natural laboratories for studying how forest communities respond to emerging pathogens and anthropogenic stress. In Hawaiʻi, I investigate fungal communities associated with healthy and diseased ʻōhiʻa lehua (_Metrosideros polymorpha_) trees affected by Rapid ʻŌhiʻa Death (ROD), a devastating emerging disease caused by _Ceratocystis_ fungi. I also study leaf litter fungal communities along altitudinal gradients on Oʻahu, examining how heavy metal concentrations in pristine versus anthropogenically polluted sites shape mycobiome structure and diversity. 
 
-I use dual-RNA seq to analyze molecular interactions and evaluate how distinct climates influence these dynamics. My experimental setup spans multiple California climate zones, from coastal fog-influenced areas to inland warm Mediterranean climates with hot summers, providing insights on climate change-related risks for tree health.
-Complementing this, my comparative genomics analyses among _Seiridium_ species explore evolutionary factors underpinning pathogenicity and adaptation of invasive populations. 
+In Sardinia (Italy), I have investigated fungal communities associated with cork oak (_Quercus suber_) systems, examining how _Phytophthora_ alters soil fungal communities and mycorrhizal networks — with implications for cork quality and oak woodland conservation.
 
-### Molecular Ecology of Fungal Communities
-I use metabarcoding techniques to characterize microbial communities in specific environments. By extracting eDNA, I identify the species that distinguish fungal assemblages in a given habitat. I mainly apply this experimental approach to understand the composition of airborne fungal communities, and the fungal communities associated with woody plant tissues that domintae different forest woodlands. 
-
-### Ancient DNA and barcoding of old fungal specimen from herbarium collections
-I apply molecular techniques to extract DNA from historical herbarium specimens that often lack sequence data in genetic data banks. By generating DNA barcodes, I provide valuable genetic information that enhances our understanding of fungal taxonomy and diversity of important fungal species. One of the genus that I work on is _Laccaria_, an important model for the understanding of mycorrhizal association. 
-
-### Genomics
-Genomes are powerful tools that can greatly expand our knowledge of organisms's biology. In my research, I apply genomics to study host–pathogen interactions in the Cypress Canker Disease pathosystem. Because non-model systems frequently lack essential genomic resources, producing reference-quality genomes is critical for addressing scientific questions and testing hypotheses.
-
-### Development of biocontrol agents
-The developement of a biocontrol agent is a sustainable approach to pest and disease management. One of the major problem in conifer forest is the impoact of _Heterobasidion_ root rot. This fungus take advantage of cutted stumps, travelling throught the root anastomosis to infect standing trees. 
-I am involved in a project that aim to develop an effective biocontrol of _Heterobasidion_ root rot in the West Coast of the United States. We test how different strains of _Phlebiopsis gigantea_ are stopping or reducing the growth of Heterobasidion in cutted stumps.  
-
+## Fungal Diversity, Evolution & Molecular Diagnostics
+Understanding fungal diversity and evolution requires both robust molecular tools and access to historical biological material. I apply ancient DNA techniques to herbarium specimens to generate sequence data for taxonomically unresolved fungal groups, with a focus on _Laccaria spp._ — an ecologically important mycorrhizal genus and a model for understanding mycorrhizal associations. By producing DNA barcodes from historical collections, I expand the genetic resources available for fungal taxonomy and diversity assessments. My broader toolkit includes metabarcoding and eDNA approaches for characterizing microbial communities, reference-quality genome assembly, and molecular diagnostics (qPCR, NGS, Sanger sequencing) for pathogen detection and population-level analyses. I am particularly drawn to non-model systems where genomic resources are scarce but ecological and applied stakes are high.
