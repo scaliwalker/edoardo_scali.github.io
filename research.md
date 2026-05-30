@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research 
-
 > I investigate how forest ecosystems respond to biological and environmental stress, with a focus on the interactions between trees and their associated microbial communities. My work integrates microbial ecology, fungal genomics, and molecular diagnostics to understand how host-microbiome dynamics shape forest health across different ecosystems and disturbance regimes.
 
 # Research Themes
